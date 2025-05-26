@@ -1,0 +1,24 @@
+site_name: My Exam Database API Documentation
+
+nav:
+  - Home: index.md
+  - Questions:
+      - List Questions: questions/list.md
+      - Get Question: questions/get.md
+      - Create Question: questions/add.md
+      - Update Question: questions/update.md
+      - Delete Question: questions/delete.md
+  - Exams:
+      - List Exams: exams/list.md
+      - Get Exam: exams/get.md
+      - Create Exam: exams/create.md
+      - Update Exam: exams/update.md
+      - Delete Exam: exams/delete.md
+  - Objectives:
+      - List Objectives: objectives/list.md
+      - Get Objective: objectives/get.md
+      - Create Objective: objectives/create.md
+      - Update Objective: objectives/update.md
+      - Delete Objective: objectives/delete.md
+
+theme: readthedocs
