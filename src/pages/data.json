@@ -1,0 +1,176 @@
+{
+	"mcq": [
+		{
+			"french": "Une femme de 32 ans vient consulter pour de l’insomnie, des palpitations, de l’irritabilité, de la transpiration et une diminution de l'appétit. L’examen physique et les analyses de laboratoire sont essentiellement normaux. Quel est le diagnostic le PLUS probable?",
+			"english": "A 32-year-old female presents to the office with insomnia, palpitations, irritability, sweating, and decreased appetite. Her physical examination and the laboratory investigations are essentially normal. What is the MOST likely diagnosis?",
+			"options": [
+			{
+			"frenchOption": "Trouble bipolaire",
+			"englishOption": "Bipolar disorder",
+			"isCorrect": false
+			},
+			{
+			"frenchOption": "Abus de substance",
+			"englishOption": "Substance abuse",
+			"isCorrect": false
+			},
+			{
+			"frenchOption": "Accident ischémique aigu",
+			"englishOption": "Acute ischemic event",
+			"isCorrect": false
+			},
+			{
+			"frenchOption": "Trouble d’anxiété généralisée",
+			"englishOption": "Generalized anxiety disorder",
+			"isCorrect": true
+			},
+			{
+			"frenchOption": "Hyperthyroïdie",
+			"englishOption": "Hyperthyroidism",
+			"isCorrect": false 
+			}
+			]
+			},
+			{
+				"french": "Une femme de 28 ans se présente à votre cabinet de médecine familiale pour un suivi médical concernant son hypertension artérielle. Sa pression artérielle moyenne des derniers 6 mois est de 170/92 mmHg. Vos investigations suggèrent un diagnostic d’hyperaldostéronisme primaire. Quel indice de laboratoire APPUIE votre diagnostic?",
+				"english": "A 28-year-old woman presents to your family medicine practice for a follow-up of her hypertension. For the last 6 months, her mean blood pressure has been 170/92 mmHg. Your investigations suggest primary hyperaldosteronism. Which of the following laboratory findings SUPPORTS your diagnosis?",
+				"options": [
+					{
+						"frenchOption": "Microalbuminurie",
+						"englishOption": "Microalbuminuria",
+						"isCorrect": false
+					},
+					{
+						"frenchOption": "Hyponatrémie",
+						"englishOption": "Hyponatremia",
+						"isCorrect": false
+					},
+					{
+						"frenchOption": "Élévation de la créatinine sérique (Cr)",
+						"englishOption": "Elevated serum creatinine",
+						"isCorrect": false
+					},
+					{
+						"frenchOption": "Élévation de l’hormone thyréostimulante (TSH)",
+						"englishOption": "Elevated thyroid-stimulating hormone (TSH)",
+						"isCorrect": false
+					},
+					{
+						"frenchOption": "Hypokaliémie",
+						"englishOption": "Hypokalemia",
+						"isCorrect": true
+					}
+				]
+			}
+	],
+	"cdmq": [
+		{
+			"french": "Que faudrait-il RECOMMANDER MAINTENANT à ce patient pour prévenir des complications liées au diabète? Choisissez SEULEMENT cinq (5) réponses.",
+			"english": "What are CURRENT RECOMMENDATIONS to prevent complications in this patient with diabetes? Choose ONLY five (5) answers.",
+			"options": [
+			{
+			"frenchOption": "Cesser de fumer",
+			"englishOption": "Stop smoking",
+			"isCorrect": true
+			},
+			{
+			"frenchOption": "Faire plus d’activité physique",
+			"englishOption": "Increase physical activity",
+			"isCorrect": true
+			},
+			{
+			"frenchOption": "Viser un taux de cholestérol HDL supérieur à 1,5 mmol/L",
+			"englishOption": "Target HDL cholesterol greater than 1.5 mmol/L",
+			"isCorrect": true
+			},
+			{
+			"frenchOption": "Viser un taux de cholestérol LDL inférieur ou égal à 2 mmol/L",
+			"englishOption": "Target LDL cholesterol equal to or less than 2 mmol/L",
+			"isCorrect": true
+			},
+			{
+			"frenchOption": "Viser une tension artérielle inférieure à 130/80 mmHg",
+			"englishOption": "Target blood pressure < 130/80 mmHg",
+			"isCorrect": true
+			},
+			{
+			"frenchOption": "Viser un taux de HbA1C inférieur ou égal à 7.0%",
+			"englishOption": "Target HbA1c equal to or less than 7.0%",
+			"isCorrect": false
+			},
+			{
+			"frenchOption": "Viser une tension artérielle inférieure à 140/90 mmHg",
+			"englishOption": "Target blood pressure < 140/90 mmHg",
+			"isCorrect": false
+			},
+			{
+			"frenchOption": "Commencer à prendre 81 mg d’acide acétylsalicylique (AAS) par jour",
+			"englishOption": "Start acetylsalicylic acid (ASA) 81 mg daily",
+			"isCorrect": false
+			},
+			{
+			"frenchOption": "Commencer à prendre des suppléments d’oméga-3",
+			"englishOption": "Start omega-3 supplements",
+			"isCorrect": false
+			}
+			]
+			},
+			{
+				"french": "Roger est inquiet que sa glycémie puisse être trop basse. QUELS SONT les signes ou les symptômes typiques d’hypoglycémie?",
+				"english": "Roger is worried that his blood glucose could be too low. WHAT WOULD BE typical signs or symptoms of hypoglycemia?",
+				"options": [
+				{
+				"frenchOption": "Hypotension",
+				"englishOption": "Hypotension",
+				"isCorrect": false
+				},
+				{
+				"frenchOption": "Palpitations",
+				"englishOption": "Palpitations",
+				"isCorrect": true
+				},
+				{
+				"frenchOption": "Anxiété",
+				"englishOption": "Anxiety",
+				"isCorrect": true
+				},
+				{
+				"frenchOption": "Dyspnée",
+				"englishOption": "Shortness of breath",
+				"isCorrect": true
+				},
+				{
+				"frenchOption": "Tremblements",
+				"englishOption": "Tremor",
+				"isCorrect": false
+				},
+				{
+				"frenchOption": "Érythème facial",
+				"englishOption": "Facial erythema",
+				"isCorrect": false
+				},
+				{
+				"frenchOption": "Diaphorèse",
+				"englishOption": "Diaphoresis",
+				"isCorrect": false
+				},
+				{
+				"frenchOption": "Céphalée",
+				"englishOption": "Headache",
+				"isCorrect": false
+				},
+				{
+				"frenchOption": "Douleur thoracique",
+				"englishOption": "Chest pain",
+				"isCorrect": false
+				},
+				{
+				"frenchOption": "Faim",
+				"englishOption": "Hunger",
+				"isCorrect": false
+				}
+				]
+			}
+	]
+}
+				
