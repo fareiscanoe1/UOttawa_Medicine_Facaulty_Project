@@ -5,7 +5,7 @@ The Undergraduate (UG) team at the Department of Family Medicine (DFM) currently
 As well, it is important that historical data be kept to identify what exam was given at what date and the analysis information for that exam. The database needs the ability to easily create a new exam and update current questions. The end result would be the ability to select exam questions using filters and identify exam questions used to date.
 
 ## Team members
-Fareis Canoe
+Fareis Canoe\
 Elias Maalouf\
 Joey Abonasara\
 Alex Nadeau\
